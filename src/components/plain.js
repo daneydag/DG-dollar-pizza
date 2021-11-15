@@ -6,7 +6,7 @@ function Plain() {
   return(
     <div className="Plain col-4">
       <div className="card">
-        <img src={ plain } class="card-img-top" alt="..."/>
+        <img src={plain} class="card-img-top" alt="..."/>
         <div className="card-body">
           <h5 className="card-title">Plain Slice</h5>
           <p className="card-text">It's got cheese, it's got tomato sauce, and it's only  a dollar. What more could you ask for?</p>
